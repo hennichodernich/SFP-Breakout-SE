@@ -14,6 +14,8 @@ What's unchanged is
 * Three status LEDs for TX_FAULT, LOS, and MOD_ABS
 * jumpers for SFP rate-select settings.
 
+Licensed under CERN OHL v. 1.2
+
 ![PCB](SFP_breakout.png "PCB image")
 
 ![Board](doc/IMG_20231118_182243369_MFNR.jpg "PCB photo")
